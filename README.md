@@ -9,7 +9,7 @@ Welcome to the "May the Flow be with You" campaign - a month-long vibe coding ha
 - **Duration**: May 4-31, 2023
 - **Total Prize Pool**: Over 12,000 FLOW
   - Weekly: 1750 FLOW distributed to 7 winners each week (~250 FLOW each)
-  - Final Jackpot: 5000 FLOW
+  - Final Jackpot: 2500 FLOW
 
 ## Weekly Themes
 
@@ -53,7 +53,7 @@ Develop the ultimate Flow application with real-world utility, mass-market appea
 4. **Win Rewards**
    - Weekly themed challenges with rewards distributed to 7 winners
    - Each day you participate in a week counts as a raffle entry, increasing your chances
-   - All submissions qualify for the final 5000 FLOW jackpot
+   - All submissions qualify for the final 2500 FLOW jackpot
 
 ## Repository Structure
 * submissions/
@@ -72,7 +72,7 @@ Develop the ultimate Flow application with real-world utility, mass-market appea
 ## Submission Guidelines
 - Each submission should demonstrate meaningful progress
 - Weekly winners receive prizes from the 1750 FLOW pool
-- All participants are eligible for the 5000 FLOW end-of-month jackpot
+- All participants are eligible for the 2500 FLOW end-of-month jackpot
 
 ## Building in Public
 Share your progress on Twitter with the hashtag #MayTheFlowBeWithYou and tag @flow_blockchain to unlock additional rewards going to the top posts.
