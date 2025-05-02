@@ -56,18 +56,18 @@ Develop the ultimate Flow application with real-world utility, mass-market appea
    - All submissions qualify for the final 5000 FLOW jackpot
 
 ## Repository Structure
-Submissions/
-├── 0x1234...333/ # Your Flow address
-│ ├── README.md # Project overview
-│ ├── week1/ # Weekly folder
-│ │ ├── 0504-my-submission/ # Date prefixed submission
-│ │ │ ├── README.md # Documentation with prompts used
-│ │ │ └── src/ # Source code
-│ │ └── 0505-demo/ # Another submission
-│ │ ├── README.md
-│ │ └── src/
-│ ├── week2/
-│ └── week3/
+* submissions/
+  * 0x1234...333/ (Your Flow address)
+    * README.md (Project overview)
+    * week1/ (Weekly folder)
+      * 0504-my-submission/ (Date prefixed submission)
+        * README.md (Documentation with prompts used)
+        * src/ (Source code)
+      * 0505-demo/ (Another submission)
+        * README.md
+        * src/
+    * week2/
+    * week3/
 
 ## Submission Guidelines
 - Each submission should demonstrate meaningful progress
