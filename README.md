@@ -6,7 +6,7 @@ Read the full details about the campaign on the official Flow developer docs (co
 Welcome to the "May the Flow be with You" campaign - a month-long vibe coding hackathon on Flow! Starting May 4th, participants will build exciting projects across four themed weeks, competing for weekly prizes and a major end-of-month jackpot.
 
 ## Campaign Details
-- **Duration**: May 4-31, 2023
+- **Duration**: May 4-31, 2025
 - **Total Prize Pool**: Over 12,000 FLOW
   - Weekly: 1750 FLOW distributed to 7 winners each week (~250 FLOW each)
   - Final Jackpot: 2500 FLOW
