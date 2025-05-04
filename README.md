@@ -46,7 +46,7 @@ Develop the ultimate Flow application with real-world utility, mass-market appea
 
 3. **Build & Commit**
    - Work on your Flow project based on the weekly themes
-   - Make daily submissions by creating folders with date-based names (e.g., `0504` for May 4th)
+   - Make daily submissions to maximize chances of winning
    - Each submission must reference what was added that day and include source code
    - You can submit up to one entry per day from May 4-31
 
@@ -60,12 +60,9 @@ Develop the ultimate Flow application with real-world utility, mass-market appea
   * 0x1234...333/ (Your Flow address)
     * README.md (Project overview)
     * week1/ (Weekly folder)
-      * 0504-my-submission/ (Date prefixed submission)
+      * my-project-name/ 
         * README.md (Documentation with prompts used)
         * src/ (Source code)
-      * 0505-demo/ (Another submission)
-        * README.md
-        * src/
     * week2/
     * week3/
 
