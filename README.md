@@ -19,6 +19,12 @@ Create unpredictable, emergent experiences using on-chain randomness. Think: gen
 - Twitter Space: May 7 (Wed) @ 4:00 PM PST - "Randomness: Building with Unpredictability"
 - Winners announced: May 12
 
+Useful Links:
+- How to [setup cursor with developer docs](https://developers.flow.com/tutorials/ai-plus-flow/cursor ) for optimal vibe coding
+- [Live app](https://randoms.wtf/) built using Flow random and coresponding [GitHub](https://github.com/Aliserag/random.wtf)
+- Implement [Randomness with Solidity](https://developers.flow.com/evm/guides/vrf ) in 3 min
+
+
 ### Week 2: To be announced (May 11-17)
 
 ### Week 3: To be announced (May 18-24)
