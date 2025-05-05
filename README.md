@@ -3,6 +3,8 @@
 Read the full details about the campaign on the official [Flow developer docs ](https://developers.flow.com/ecosystem/Hackathons%20and%20Events/may-the-flow-be-with-you)!
 ![image](https://github.com/user-attachments/assets/50bbb631-a461-4ec4-886e-3936001eeafa)
 
+Looking to form a team for one of the weekly challenges or stay ontop of the latest? Join our [telegram chat](https://t.me/flow_world_tour).
+
 ## Overview
 Welcome to the "May the Flow be with You" campaign - a month-long vibe coding hackathon on Flow! Starting May 4th, participants will build exciting projects across four themed weeks, competing for weekly prizes and a major end-of-month jackpot.
 
@@ -23,7 +25,6 @@ Useful Links:
 - How to [setup cursor with developer docs](https://developers.flow.com/tutorials/ai-plus-flow/cursor ) for optimal vibe coding
 - [Live app](https://randoms.wtf/) built using Flow random and coresponding [GitHub](https://github.com/Aliserag/random.wtf)
 - Implement [Randomness with Solidity](https://developers.flow.com/evm/guides/vrf ) in 3 min
-
 
 ### Week 2: To be announced (May 11-17)
 
