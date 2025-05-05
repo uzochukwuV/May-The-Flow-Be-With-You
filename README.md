@@ -1,6 +1,7 @@
 # May the Flow be with You
 
-Read the full details about the campaign on the official Flow developer docs (coming soon).
+Read the full details about the campaign on the official [Flow developer docs ](https://developers.flow.com/ecosystem/Hackathons%20and%20Events/may-the-flow-be-with-you)!
+![image](https://github.com/user-attachments/assets/50bbb631-a461-4ec4-886e-3936001eeafa)
 
 ## Overview
 Welcome to the "May the Flow be with You" campaign - a month-long vibe coding hackathon on Flow! Starting May 4th, participants will build exciting projects across four themed weeks, competing for weekly prizes and a major end-of-month jackpot.
@@ -15,23 +16,14 @@ Welcome to the "May the Flow be with You" campaign - a month-long vibe coding ha
 
 ### Week 1: The Randomness Revolution (May 4-10)
 Create unpredictable, emergent experiences using on-chain randomness. Think: generative art, dynamic NFTs, chance-based mechanics, and randomized gameplay elements.
-- Twitter Space: May 5 (Mon) @ 6:00 PM PST - "Randomness: Building with Unpredictability"
+- Twitter Space: May 7 (Wed) @ 4:00 PM PST - "Randomness: Building with Unpredictability"
 - Winners announced: May 12
 
-### Week 2: Game-Changing Play (May 11-17)
-Build the next generation of fun games on Flow with innovative gameplay, engaging experiences, and novel game mechanics.
-- Twitter Space: May 12 (Mon) @ 6:00 PM PST - "How to Build Fun Games"
-- Winners announced: May 19
+### Week 2: To be announced (May 11-17)
 
-### Week 3: Consumer DeFi Reimagined (May 18-24)
-Create user-friendly DeFi applications that make decentralized finance accessible to everyone.
-- Twitter Space: May 19 (Mon) - Coming Soon
-- Winners announced: May 26
+### Week 3: To be announced (May 18-24)
 
-### Week 4: The Most Killer App (May 25-31)
-Develop the ultimate Flow application with real-world utility, mass-market appeal, and genuine problem-solving capabilities.
-- Twitter Space: May 26 (Mon) - Coming Soon
-- Winners announced: June 2 (along with the jackpot winner)
+### Week 4: To be announced (May 25-31)
 
 ## How to Participate
 
