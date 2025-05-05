@@ -10,8 +10,9 @@ Welcome to the "May the Flow be with You" campaign - a month-long vibe coding ha
 
 ## Campaign Details
 - **Duration**: May 4-31, 2025
-- **Total Prize Pool**: Over 12,000 FLOW
+- **Total Prize Pool**: Over 10,000 FLOW
   - Weekly: 1750 FLOW distributed to 7 winners each week (~250 FLOW each)
+  - Hundreds in building in public rewards
   - Final Jackpot: 2500 FLOW
 
 ## Weekly Themes
