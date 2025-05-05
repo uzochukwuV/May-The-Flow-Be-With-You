@@ -6,7 +6,7 @@ Read the full details about the campaign on the official [Flow developer docs ](
 Looking to form a team for one of the weekly challenges or stay ontop of the latest? Join our [telegram chat](https://t.me/flow_world_tour).
 
 ## Overview
-Welcome to the "May the Flow be with You" campaign - a month-long vibe coding hackathon on Flow! Starting May 4th, participants will build exciting projects across four themed weeks, competing for weekly prizes and a major end-of-month jackpot.
+Welcome to the "May the Flow be with You" campaign - a month-long vibe coding challenge on Flow! Starting May 4th, participants will build exciting projects across four themed weeks, competing for weekly prizes and a major end-of-month jackpot.
 
 ## Campaign Details
 - **Duration**: May 4-31, 2025
